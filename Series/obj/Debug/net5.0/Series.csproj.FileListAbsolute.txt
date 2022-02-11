@@ -1,0 +1,16 @@
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\bin\Debug\net5.0\Series.exe
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\bin\Debug\net5.0\Series.deps.json
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\bin\Debug\net5.0\Series.dll
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\bin\Debug\net5.0\ref\Series.dll
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\bin\Debug\net5.0\Series.pdb
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.dll
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\ref\Series.dll
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.pdb
+G:\Meu Drive\DIO\git\AvanadeCadastroSeries\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
